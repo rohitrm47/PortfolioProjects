@@ -1,60 +1,41 @@
-# 📊 Retail Superstore Sales Analysis using Tableau
+# 🚀 Rohit Mukherjee's Data Portfolio
 
-This project explores retail sales and profitability using Tableau. The goal was to turn historical transaction data into actionable insights through interactive dashboards.
-
----
-
-## 🔍 Objective
-
-Analyze performance across time, regions, product categories, and customer segments. Investigate the impact of discounts and shipping delays on profitability.
+Welcome to my portfolio of data and business analytics projects! This repository contains my hands-on work across various tools like Tableau, Excel, Python, and R — all focused on solving real-world business problems using data.
 
 ---
 
-## 📁 Dataset
+## 📁 Projects Included
 
-Dataset from Kaggle:  
-[Superstore Dataset (by vivek468)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-
----
-
-## 📈 Dashboard
-
-👉 [View Interactive Tableau Dashboard](https://public.tableau.com/views/RetailSuperstoreSalesAnalysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Retail Superstore Analysis](./Retail_Superstore_Analysis) | Tableau dashboard analyzing sales, shipping, discounts & regional performance | Tableau, Excel |
 
 ---
 
-## 🧠 Key Insights
+## 💼 What You'll Find Here
 
-- Profitability drops significantly after 4-day shipping delays  
-- High discounts reduce margins — especially in Furniture  
-- Tables and Bookcases are consistently unprofitable  
-- Corporate customers bring high sales but lower profit
-
----
-
-## 📸 Preview
-
-![Dashboard Screenshot](images/dashboard-preview.png)
+- 📊 Interactive dashboards
+- 📄 PDF reports with insights & recommendations
+- 🧠 Business questions answered through data
+- ✍️ Clean documentation with reproducible steps
 
 ---
 
-## 📄 Final Report
+## 📎 About Me
 
-📥 [Download Project Report (PDF)](./Retail_Superstore_Report.pdf)
+I'm **Rohit Mukherjee**, a business analyst and data enthusiast with a background in IT, business strategy, and analytics. I love exploring data and telling stories with it.
 
----
-
-## 🛠 Tools Used
-
-- Tableau
-- Excel / CSV
-- GitHub
-- Kaggle
+🔗 [LinkedIn](https://www.linkedin.com/in/rohit-mukherjee-rm)  
+📧 rohitrm417@gmail.com
 
 ---
 
-## ✍️ Author
+## 🧩 How to Use This Repo
 
-**Rohit Mukherjee**  
-Business Analyst & Data Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/rohit-mukherjee-rm)
+1. Browse individual project folders
+2. Open the README in each to understand the goal and tools used
+3. Check out dashboards (hosted on Tableau Public) or download reports
+
+---
+
+📌 *This repository is a living portfolio and will be continuously updated with new projects.*
