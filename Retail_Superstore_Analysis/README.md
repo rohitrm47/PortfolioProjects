@@ -7,3 +7,6 @@ This project uses Tableau to analyze sales, profits, discounts, and shipping del
 👉 Tableau Dashboard: [View Online](https://public.tableau.com/views/RetailSuperstoreSalesAnalysis/Dashboard1)
 
 🧠 Key insights and recommendations included in the report.
+
+
+![Dashboard Preview](https://github.com/user-attachments/assets/c55d1897-b36a-439d-b71f-85ad58bccd2a)
