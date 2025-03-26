@@ -9,6 +9,7 @@ Welcome to my portfolio of data and business analytics projects! This repository
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Retail Superstore Analysis](./Retail_Superstore_Analysis) | Tableau dashboard analyzing sales, shipping, discounts & regional performance | Tableau, Excel |
+| [Amazon Delivery Performance](./Amazon_Delivery_Performance) | Simulated analysis of Amazon's delivery performance using public data, with a focus on delays, agent ratings, and traffic/weather conditions | Tableau, Excel |
 
 ---
 
