@@ -45,3 +45,12 @@ This project does **not use any internal Amazon data**. It is a simulation built
 ---
 
 **Created by Rohit Mukherjee**
+## 📸 Dashboard Preview
+
+<img width="2284" alt="Screenshot 2025-03-26 at 14 26 23" src="https://github.com/user-attachments/assets/a50dc80d-9fd1-4e7b-b574-d88cebc0d54d" />
+
+_Above: Tableau Dashboard showing traffic, weather, and delivery agent performance metrics._
+
+
+
+
