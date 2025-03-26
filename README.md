@@ -24,7 +24,9 @@ Welcome to my portfolio of data and business analytics projects! This repository
 
 ## 📎 About Me
 
-I'm **Rohit Mukherjee**, a business analyst and data enthusiast with a background in IT, business strategy, and analytics. I love exploring data and telling stories with it.
+Hi, I'm **Rohit Mukherjee** — a business analyst and tech enthusiast with a background in IT, strategy, and data analytics. I’m passionate about uncovering business opportunities through data and turning them into actionable, growth-driven strategies.
+
+I thrive at the intersection of technology and business — where insights meet execution. Whether it’s streamlining operations, enhancing customer experiences, or identifying new market potential, I love using data to drive meaningful outcomes.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-mukherjee-rm)  
 📧 rohitrm417@gmail.com
